@@ -35,7 +35,7 @@ This website features sections like Home, About, Products, News, Contact and a s
 
 ## Deployment & Installation
 
-  To run this project simply download or clone this repository in your local computer, open this project in visual studio code editor  of this project
+  To run this project simply download or clone this repository in your local computer, open this project in visual studio code editor after that open VS code command prompt terminal and type this command ```bash python manage.py runserver ``` will starting development server at http://127.0.0.1:8000/ copy this port link and paste it on browser, project will be run. 
   or you can check out this website which is live at: https://jafferjunaidi.github.io/Starorganic/  
 <br>
 
