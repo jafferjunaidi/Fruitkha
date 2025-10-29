@@ -35,7 +35,7 @@ This website features sections like Home, About, Products, News, Contact and a s
 
 ## Deployment & Installation
 
-  To run this project simply download or clone this repository in your local computer, open this project in Visual Studio code editor after that open VS code command prompt terminal and type this command ```bash python manage.py runserver``` will starting development server at http://127.0.0.1:8000/ copy this port link and paste it on browser, project will be run. 
+  To run this project simply download or clone this repository in your local computer, open this project in Visual Studio code editor then open VS code command prompt terminal and type this command ```python manage.py runserver``` will starting development server at http://127.0.0.1:8000/ copy this port link and paste it on browser, project will be run. 
 <br>
 
 ## Author
