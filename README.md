@@ -1,2 +1,2 @@
-# E-commerce fruits shopping store website.
+# Fruits shopping store website.
 
