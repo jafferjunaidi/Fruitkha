@@ -1,5 +1,3 @@
-# Fruits shopping store website.
-
 ![Logo](static/assets/img/logo.png)
 
 Fruitkha is a venture, striving to create a healthier society with its fresh organic fruits.
